@@ -1,0 +1,4 @@
+mail:
+  domain: 161.com
+  # 邮件发送地址
+  from: ${spring.mail.username}@${mail.domain}
