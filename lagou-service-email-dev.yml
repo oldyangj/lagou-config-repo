@@ -2,3 +2,4 @@ mail:
   domain: qq.com
   # 邮件发送地址
   from: ${spring.mail.username}@${mail.domain}
+  test: 555
